@@ -4,7 +4,7 @@
 
 - Clone the repository to your local machine:
 ```
-git clone https://github.com/subin-shk/Vrit-Tech-Task-A.git
+git clone https://github.com/subin-shk/Vrit-Tech-Task-B.git
 ```
 
 - install node modules and dependencies by running the following command:
